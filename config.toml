@@ -1,4 +1,4 @@
-baseURL = 'http://rules.dust1947.net/'
+baseURL = 'http://www.rules.dust1947.net/'
 languageCode = 'en-us'
 title = 'Dust1947 Rules'
 theme = "hugo-geekdoc"
